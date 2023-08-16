@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/cascades">
+        <file>myhaar_maskdetection.xml</file>
+    </qresource>
+</RCC>
